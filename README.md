@@ -10,7 +10,7 @@ Various projects created in my university career to document skills developed, t
 
 ### Networking
 - Enterprise Network Design - Video Production
-- Software Defined Network - Military Altert Tool
+- Software Defined Networking - Military Altert Tool
 
 ### Programming
 - Auction Website
