@@ -14,12 +14,16 @@ A small Python project that defines a set of robots with distinct personalities 
     - `workshop.py` - Stores robots, installs upgrades, and prints summaries, filters, and sorted results.
     - `test_robots.py` - Test script for verifying robot behavior.
 
+---
+
 ## Features
 
 - Abstract `Robot` base class with performance tracking and upgrade support.
 - Specialized robot types with custom performance formulas.
 - Upgrade system for modifying robot capabilities at runtime.
 - Workshop container for managing robots, filtering by type, and sorting by performance.
+
+---
 
 ## Getting Started
 
@@ -31,13 +35,19 @@ A small Python project that defines a set of robots with distinct personalities 
 python main.py
 ```
 
+---
+
 ## Usage
 
 - `main.py` shows robot instantiation, upgrade installation, and workshop operations.
 - `test_robots.py` can be used to verify or extend automated tests.
+
+---
 
 ## Notes
 
 - Each robot must implement `execute_task()`.
 - Upgrades call the robot's `calculate_performance()` after applying changes.
 - The workshop can add robots, install upgrades by ID, print a summary, filter by class, and sort by performance.
+
+---
