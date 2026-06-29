@@ -4,15 +4,15 @@ A small Python project that defines a set of robots with distinct personalities 
 
 ## Project Structure
 
-- `Code/`
-  - `main.py` - Demonstrates robot creation, performance calculation, upgrades, and workshop features.
-  - `robot.py` - Abstract base class for all robots.
-  - `sniper_robot.py` - Robot subclass specializing in precision and weapon stability.
-  - `perfectionist_robot.py` - Robot subclass focused on quality and focus mode.
-  - `music_robot.py` - Robot subclass using a music library to calculate performance.
-  - `upgrades.py` - Upgrade classes that modify robot attributes and recalculate performance.
-  - `workshop.py` - Stores robots, installs upgrades, and prints summaries, filters, and sorted results.
-  - `test_robots.py` - Test script for verifying robot behavior (current working file).
+- `code/`
+    - `main.py` - Demonstrates robot creation, performance calculation, upgrades, and workshop features.
+    - `robot.py` - Abstract base class for all robots.
+    - `sniper_robot.py` - Robot subclass specializing in precision and weapon stability.
+    - `perfectionist_robot.py` - Robot subclass focused on quality and focus mode.
+    - `music_robot.py` - Robot subclass using a music library to calculate performance.
+    - `upgrades.py` - Upgrade classes that modify robot attributes and recalculate performance.
+    - `workshop.py` - Stores robots, installs upgrades, and prints summaries, filters, and sorted results.
+    - `test_robots.py` - Test script for verifying robot behavior.
 
 ## Features
 
@@ -24,7 +24,7 @@ A small Python project that defines a set of robots with distinct personalities 
 ## Getting Started
 
 1. Install Python 3.8 or newer.
-2. Open a terminal in the `programming/python-robot-project/Code` directory.
+2. Open a terminal in the `programming/python-robot-project/code` directory.
 3. Run the main demo:
 
 ```bash
