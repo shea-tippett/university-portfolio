@@ -3,17 +3,36 @@ Various projects created in my university career to document skills developed, t
 
 ## Contents
 
-### Cybersecurity
-- Reconnaissance and Enumeration Lab
-- Hack the Box and Reverse TCP Lab
-- Applied Cryptography Lab
+- `cybersecurity/`
+    - `reconnaissance-and-enumeration-lab/`
+    - `hack-the-box-and-reverse-tcp-lab/`
+    - `applied-cryptography-lab/`
 
-### Networking
-- Enterprise Network Design - Video Production
-- Software Defined Networking - Military Altert Tool
+- `networking/`
+    - `enterprise-network-design-video-production/`
+    - `software-defined-networking-military-altert-tool/`
 
-### Programming
-- Auction Website
-- Python Robot Project
+- `programming/`
+    - `auction-website/`
+        - `screenshots/`
+            - `auction_home.jpg`
+            - `auction_catalogue.jpg`
+            - `auction_lot.jpg`
+            - `code_home.jpg`
+            - `code_catalogue.jpg`
+            - `code_catalogue_p2.jpg`
+            - `code_lot.jpg`
+        - `README.md`
+    - `python-robot-project/`
+        - `code/`
+            - `main.py`
+            - `test_robot.py`
+            - `robot.py`
+            - `music_robot.py`
+            - `perfectionist_robot.py`
+            - `sniper_robot.py`
+            - `upgrades.py`
+            - `workshop.py`
+        - `README.md`
 
 ---
