@@ -5,7 +5,6 @@ is at 94%.
 Author: Shea Tippett
 """
 
-import pytest
 from sniper_robot import SniperRobot
 from perfectionist_robot import PerfectionistRobot
 from music_robot import MusicRobot, MusicLibrary
