@@ -32,7 +32,7 @@ A small Python project that defines a set of robots with distinct personalities 
 3. Run the main demo:
 
 ```bash
-python main.py
+main.py
 ```
 
 ---

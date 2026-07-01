@@ -9,8 +9,12 @@ Various projects created in my university career to document skills developed, t
     - `applied-cryptography-lab/`
 
 - `networking/`
-    - `enterprise-network-design-video-production/`
-    - `software-defined-networking-military-altert-tool/`
+    - `enterprise-network-design/`
+        - `video_production_company(logical_diagram).drawio`
+        - `video_production_company(physical_diagram).drawio`
+        - `ip_addressing_scheme_and_equipment.xlsx`
+        - `README.md`
+    - `sdn-military-altert-tool/`
 
 - `programming/`
     - `auction-website/`
