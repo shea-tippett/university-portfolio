@@ -27,12 +27,6 @@ The company has pre-purchased equipment that needs to be accounted for:
 
 ---
 
-## Project Structure
-
-
-
----
-
 ## How Open
 
 1. Download `video_production_company(logical_diagram).drawio`, `video_production_company(physical_diagram).drawio` and `ip_addressing_scheme_and_equipment.xlsx`
@@ -41,3 +35,16 @@ The company has pre-purchased equipment that needs to be accounted for:
 4. Click `Start Diagramming`
 5. Click `File`, `Open From`, `Device...`
 6. Open either `video_production_company(logical_diagram).drawio` or `video_production_company(physical_diagram).drawio`
+
+---
+
+## Lessions Learned
+
+- How to create complex multi-location logical/physical networking diagrams.
+- VLAN allocation and cable/device labelling. 
+- How to create physical diagrams.
+- When to use HCC vs VCC.
+- IDF vs MDF.
+- Supernetting and advanced subnetting concepts.
+- Creating advanced IP adressing tables.
+- Creating equipment lists.
