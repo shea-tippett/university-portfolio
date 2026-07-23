@@ -1,6 +1,6 @@
 # Python Robot Project
 
-A small Python project that defines a set of robots with distinct personalities and capabilities. Each robot type calculates its performance differently and supports upgrade installation through a workshop interface.
+A Python project that defines a set of robots with distinct personalities and capabilities. Each robot type calculates its performance differently and supports upgrade installation through a workshop interface.
 
 ## Project Structure
 
@@ -51,3 +51,8 @@ main.py
 - The workshop can add robots, install upgrades by ID, print a summary, filter by class, and sort by performance.
 
 ---
+
+## Lessions Learned
+
+- Advanced Python programming concepts.
+- Object oriented programming topics.

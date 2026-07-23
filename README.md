@@ -1,4 +1,5 @@
 # University Portfolio
+
 Various projects created in my university career to document skills developed, these mainly include networking, cybersecurity and programming projects, as these are most relevant for my career path.
 
 ## Contents

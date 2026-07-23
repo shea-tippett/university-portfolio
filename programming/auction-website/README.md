@@ -49,9 +49,20 @@ To run the site locally (table data can be provided to populate SQL tables):
 3. Place the Razor pages into a WebMatrix/ASP.NET project and update the `Database.Open("AuctionDB")` connection string to match your environment.
 4. Start the site and navigate to the home/catalogue/lot pages to view results.
 
+---
+
 ## Tips for Further Improvement
 
 - Extract SQL queries into a repository or data-access layer instead of building them inline in Razor views.
 - Add unit/integration tests around query results and page rendering logic.
 - Replace string concatenation of SQL with parameterised commands to avoid injection risks.
 - Add README links to the exact screenshot files for quicker reference.
+
+---
+
+## Lessions Learned
+
+- How to use Razor, HTML/CSS, SQL and Bootstrap together to create a fully functional website and database.
+- Use advanced SQL queries to collect relevant entries and display them on a website.
+- Integration of Razor into HTML code to integrate solid logic.
+- Searching through and editing Bootstrap code to fit the needs of a website.
